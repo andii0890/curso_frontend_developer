@@ -1,0 +1,28 @@
+{
+  "name": "curso_frontend_developer",
+  "version": "1.0.0",
+  "description": "Curso de HTML y CSS impartido en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andii0890/curso_frontend_developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andii0890/curso_frontend_developer/issues"
+  },
+  "homepage": "https://github.com/andii0890/curso_frontend_developer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@storybook/html": "^5.2.1",
+    "babel-loader": "^8.0.6"
+  }
+}
